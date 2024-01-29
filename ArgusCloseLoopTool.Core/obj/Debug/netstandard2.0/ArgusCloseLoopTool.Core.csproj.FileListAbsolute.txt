@@ -1,0 +1,50 @@
+F:\JiangResearchInstitute\ArgusCloseLoopTool.Core\bin\Debug\netstandard2.0\ArgusCloseLoopTool.Core.deps.json
+F:\JiangResearchInstitute\ArgusCloseLoopTool.Core\bin\Debug\netstandard2.0\ArgusCloseLoopTool.Core.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool.Core\bin\Debug\netstandard2.0\ArgusCloseLoopTool.Core.pdb
+F:\JiangResearchInstitute\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.csproj.AssemblyReference.cache
+F:\JiangResearchInstitute\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\JiangResearchInstitute\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.AssemblyInfoInputs.cache
+F:\JiangResearchInstitute\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.AssemblyInfo.cs
+F:\JiangResearchInstitute\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.csproj.CoreCompileInputs.cache
+F:\JiangResearchInstitute\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.pdb
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool.Core\bin\Debug\netstandard2.0\ArgusCloseLoopTool.Core.deps.json
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool.Core\bin\Debug\netstandard2.0\ArgusCloseLoopTool.Core.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool.Core\bin\Debug\netstandard2.0\ArgusCloseLoopTool.Core.pdb
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.csproj.AssemblyReference.cache
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.AssemblyInfoInputs.cache
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.AssemblyInfo.cs
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.csproj.CoreCompileInputs.cache
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.pdb
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool.Core\bin\Debug\netstandard2.0\ArgusCloseLoopTool.Core.deps.json
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool.Core\bin\Debug\netstandard2.0\ArgusCloseLoopTool.Core.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool.Core\bin\Debug\netstandard2.0\ArgusCloseLoopTool.Core.pdb
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.csproj.AssemblyReference.cache
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.AssemblyInfoInputs.cache
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.AssemblyInfo.cs
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.csproj.CoreCompileInputs.cache
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.pdb
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool.Core\bin\Debug\netstandard2.0\ArgusCloseLoopTool.Core.deps.json
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool.Core\bin\Debug\netstandard2.0\ArgusCloseLoopTool.Core.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool.Core\bin\Debug\netstandard2.0\ArgusCloseLoopTool.Core.pdb
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.csproj.AssemblyReference.cache
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.AssemblyInfoInputs.cache
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.AssemblyInfo.cs
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.csproj.CoreCompileInputs.cache
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.pdb
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool.Core\bin\Debug\netstandard2.0\ArgusCloseLoopTool.Core.deps.json
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool.Core\bin\Debug\netstandard2.0\ArgusCloseLoopTool.Core.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool.Core\bin\Debug\netstandard2.0\ArgusCloseLoopTool.Core.pdb
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.csproj.AssemblyReference.cache
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.AssemblyInfoInputs.cache
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.AssemblyInfo.cs
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.csproj.CoreCompileInputs.cache
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool.Core\obj\Debug\netstandard2.0\ArgusCloseLoopTool.Core.pdb

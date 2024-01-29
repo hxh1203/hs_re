@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/6RsKmCdzZYkyTCxPjNbHqi8EJw4c5HyQD5OW8tmVu+OwBxCNQsLaE9mr6M63sK2eINfWoAl1FDLdMyaaVdH7g==",
+  "success": true,
+  "projectFilePath": "D:\\A01.2 Demo开发\\HS_TOOLS\\HS_TOOLS\\ArgusCloseLoopTool.Core\\ArgusCloseLoopTool.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AY-198\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\AY-198\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\AY-198\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

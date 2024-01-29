@@ -1,0 +1,618 @@
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.exe
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\appsettings.json
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.deps.json
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.runtimeconfig.json
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.pdb
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\CommunityToolkit.Mvvm.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\CommunityToolkit.WinUI.Notifications.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ControlzEx.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\MahApps.Metro.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.Json.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.DependencyInjection.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.FileProviders.Physical.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Hosting.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Configuration.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Console.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Debug.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.EventLog.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.EventSource.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Options.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Primitives.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Xaml.Behaviors.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Newtonsoft.Json.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\de\MahApps.Metro.resources.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\WinRT.Runtime.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.Core.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.Core.pdb
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.AssemblyReference.cache
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\MetroWindow.baml
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\TextBlock.baml
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\Themes\HC.Dark.Blue.baml
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\Themes\HC.Light.Blue.baml
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\_FontSizes.baml
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\_Thickness.baml
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\App.baml
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DataAnalysisToolPage.g.cs
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DesToolPage.g.cs
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\MainPage.g.cs
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\SettingsPage.g.cs
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\ShellWindow.g.cs
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\UserRegistrationToolPage.g.cs
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\App.g.cs
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\GeneratedInternalTypeHelper.g.cs
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool_MarkupCompile.cache
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool_MarkupCompile.lref
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DataAnalysisToolPage.baml
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DesToolPage.baml
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\MainPage.baml
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\SettingsPage.baml
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\ShellWindow.baml
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\UserRegistrationToolPage.baml
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.g.resources
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.Properties.Resources.resources
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.GenerateResource.cache
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.GeneratedMSBuildEditorConfig.editorconfig
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.AssemblyInfoInputs.cache
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.AssemblyInfo.cs
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.CoreCompileInputs.cache
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.CopyComplete
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\refint\ArgusCloseLoopTool.dll
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.pdb
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.genruntimeconfig.cache
+F:\JiangResearchInstitute\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ref\ArgusCloseLoopTool.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.AssemblyReference.cache
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\MetroWindow.baml
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\TextBlock.baml
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\Themes\HC.Dark.Blue.baml
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\Themes\HC.Light.Blue.baml
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\_FontSizes.baml
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\_Thickness.baml
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\App.baml
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DataAnalysisToolPage.g.cs
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DesToolPage.g.cs
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\MainPage.g.cs
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\SettingsPage.g.cs
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\ShellWindow.g.cs
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\UserRegistrationToolPage.g.cs
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\App.g.cs
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool_MarkupCompile.cache
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool_MarkupCompile.lref
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\refint\ArgusCloseLoopTool.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.pdb
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.exe
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\appsettings.json
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.deps.json
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.runtimeconfig.json
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.pdb
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\CommunityToolkit.Mvvm.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\CommunityToolkit.WinUI.Notifications.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ControlzEx.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\MahApps.Metro.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Data.SqlClient.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Data.Sqlite.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Hosting.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Options.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Primitives.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Identity.Client.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Xaml.Behaviors.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\MySqlConnector.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Newtonsoft.Json.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Npgsql.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Oracle.ManagedDataAccess.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\SQLitePCLRaw.core.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\SqlSugar.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\DmProvider.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Kdbndp.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.DirectoryServices.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.DirectoryServices.Protocols.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.Runtime.Caching.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\de\MahApps.Metro.resources.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\WinRT.Runtime.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.Core.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.Core.pdb
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DataAnalysisToolPage.baml
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DesToolPage.baml
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\MainPage.baml
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\SettingsPage.baml
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\ShellWindow.baml
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\UserRegistrationToolPage.baml
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.g.resources
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.Properties.Resources.resources
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.GenerateResource.cache
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.AssemblyInfoInputs.cache
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.AssemblyInfo.cs
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.CoreCompileInputs.cache
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.CopyComplete
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.genruntimeconfig.cache
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ref\ArgusCloseLoopTool.dll
+C:\Users\AY-198\Desktop\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\CustomButtonStyle.baml
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.exe
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\appsettings.json
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.deps.json
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.runtimeconfig.json
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.pdb
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\CommunityToolkit.Mvvm.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\CommunityToolkit.WinUI.Notifications.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ControlzEx.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\MahApps.Metro.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Data.SqlClient.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Data.Sqlite.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.Json.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.DependencyInjection.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Hosting.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Console.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Debug.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Options.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Primitives.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Identity.Client.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.Logging.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.Protocols.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.Tokens.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Xaml.Behaviors.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\MySqlConnector.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Newtonsoft.Json.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Npgsql.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Oracle.ManagedDataAccess.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\SQLitePCLRaw.batteries_v2.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\SQLitePCLRaw.core.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\SqlSugar.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\DmProvider.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Kdbndp.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.Diagnostics.PerformanceCounter.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.DirectoryServices.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.DirectoryServices.Protocols.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.IdentityModel.Tokens.Jwt.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.Runtime.Caching.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\de\MahApps.Metro.resources.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\WinRT.Runtime.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.Core.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.Core.pdb
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.AssemblyReference.cache
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\CustomButtonStyle.baml
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\MetroWindow.baml
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\TextBlock.baml
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\Themes\HC.Dark.Blue.baml
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\Themes\HC.Light.Blue.baml
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\_FontSizes.baml
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\_Thickness.baml
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\App.baml
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DataAnalysisToolPage.g.cs
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DesToolPage.g.cs
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\MainPage.g.cs
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\SettingsPage.g.cs
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\ShellWindow.g.cs
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\UserRegistrationToolPage.g.cs
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\App.g.cs
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\GeneratedInternalTypeHelper.g.cs
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool_MarkupCompile.cache
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool_MarkupCompile.lref
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DataAnalysisToolPage.baml
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DesToolPage.baml
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\MainPage.baml
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\SettingsPage.baml
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\ShellWindow.baml
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\UserRegistrationToolPage.baml
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.g.resources
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.Properties.Resources.resources
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.GenerateResource.cache
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.AssemblyInfoInputs.cache
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.AssemblyInfo.cs
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.CoreCompileInputs.cache
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.CopyComplete
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\refint\ArgusCloseLoopTool.dll
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.pdb
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.genruntimeconfig.cache
+D:\A01.2 Demo开发\华视工具源码\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ref\ArgusCloseLoopTool.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.exe
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\appsettings.json
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.deps.json
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.runtimeconfig.json
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.pdb
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\CommunityToolkit.Mvvm.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\CommunityToolkit.WinUI.Notifications.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ControlzEx.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\MahApps.Metro.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Data.SqlClient.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Data.Sqlite.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.Json.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.DependencyInjection.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Hosting.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Console.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Debug.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Options.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Primitives.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Identity.Client.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.Logging.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.Protocols.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.Tokens.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Xaml.Behaviors.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\MySqlConnector.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Newtonsoft.Json.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Npgsql.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Oracle.ManagedDataAccess.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\SQLitePCLRaw.batteries_v2.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\SQLitePCLRaw.core.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\SqlSugar.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\DmProvider.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Kdbndp.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.Diagnostics.PerformanceCounter.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.DirectoryServices.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.DirectoryServices.Protocols.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.IdentityModel.Tokens.Jwt.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.Runtime.Caching.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\de\MahApps.Metro.resources.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\WinRT.Runtime.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.Core.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.Core.pdb
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.AssemblyReference.cache
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\App.baml
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DataAnalysisToolPage.g.cs
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DesToolPage.g.cs
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\MainPage.g.cs
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\SettingsPage.g.cs
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\ShellWindow.g.cs
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\UserRegistrationToolPage.g.cs
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\App.g.cs
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\GeneratedInternalTypeHelper.g.cs
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool_MarkupCompile.cache
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool_MarkupCompile.lref
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DataAnalysisToolPage.baml
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DesToolPage.baml
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\MainPage.baml
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\SettingsPage.baml
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\ShellWindow.baml
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\UserRegistrationToolPage.baml
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.g.resources
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.Properties.Resources.resources
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.GenerateResource.cache
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.AssemblyInfoInputs.cache
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.AssemblyInfo.cs
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.CoreCompileInputs.cache
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.CopyComplete
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\refint\ArgusCloseLoopTool.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.pdb
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.genruntimeconfig.cache
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ref\ArgusCloseLoopTool.dll
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\CustomButtonStyle.baml
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\MetroWindow.baml
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\TextBlock.baml
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\Themes\HC.Dark.Blue.baml
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\Themes\HC.Light.Blue.baml
+D:\A01.2 Demo开发\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\_FontSizes.baml
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.exe
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\appsettings.json
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.deps.json
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.runtimeconfig.json
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.pdb
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\CommunityToolkit.Mvvm.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\CommunityToolkit.WinUI.Notifications.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ControlzEx.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\MahApps.Metro.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Data.SqlClient.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Data.Sqlite.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.Json.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.DependencyInjection.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Hosting.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Console.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.Debug.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Options.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Extensions.Primitives.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Identity.Client.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.Logging.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.Protocols.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.IdentityModel.Tokens.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Xaml.Behaviors.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\MySqlConnector.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Newtonsoft.Json.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Npgsql.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Oracle.ManagedDataAccess.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\SQLitePCLRaw.batteries_v2.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\SQLitePCLRaw.core.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\SqlSugar.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\DmProvider.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Kdbndp.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.Diagnostics.PerformanceCounter.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.DirectoryServices.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.DirectoryServices.Protocols.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.IdentityModel.Tokens.Jwt.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\System.Runtime.Caching.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\de\MahApps.Metro.resources.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\WinRT.Runtime.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.Core.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\bin\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.Core.pdb
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.AssemblyReference.cache
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\CustomButtonStyle.baml
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\MetroWindow.baml
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\TextBlock.baml
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\Themes\HC.Dark.Blue.baml
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\Themes\HC.Light.Blue.baml
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Styles\_FontSizes.baml
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\App.baml
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DataAnalysisToolPage.g.cs
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DesToolPage.g.cs
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\MainPage.g.cs
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\SettingsPage.g.cs
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\ShellWindow.g.cs
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\UserRegistrationToolPage.g.cs
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\App.g.cs
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\GeneratedInternalTypeHelper.g.cs
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool_MarkupCompile.cache
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool_MarkupCompile.lref
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DataAnalysisToolPage.baml
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\DesToolPage.baml
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\MainPage.baml
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\SettingsPage.baml
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\ShellWindow.baml
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\Views\UserRegistrationToolPage.baml
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.g.resources
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.Properties.Resources.resources
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.GenerateResource.cache
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.AssemblyInfoInputs.cache
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.AssemblyInfo.cs
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.CoreCompileInputs.cache
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.csproj.CopyComplete
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\refint\ArgusCloseLoopTool.dll
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.pdb
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ArgusCloseLoopTool.genruntimeconfig.cache
+D:\A01.2 Demo开发\HS_TOOLS\HS_TOOLS\ArgusCloseLoopTool\obj\Debug\net6.0-windows10.0.19041.0\ref\ArgusCloseLoopTool.dll

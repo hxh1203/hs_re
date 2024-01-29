@@ -1,0 +1,88 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows10.0.19041.0</TargetFramework>
+    <RootNamespace>ArgusCloseLoopTool</RootNamespace>
+    <UseWPF>true</UseWPF>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <Compile Remove="Styles\新文件夹1\**" />
+    <Compile Remove="Styles\新文件夹2\**" />
+    <Compile Remove="Styles\新文件夹\**" />
+    <EmbeddedResource Remove="Styles\新文件夹1\**" />
+    <EmbeddedResource Remove="Styles\新文件夹2\**" />
+    <EmbeddedResource Remove="Styles\新文件夹\**" />
+    <None Remove="Styles\新文件夹1\**" />
+    <None Remove="Styles\新文件夹2\**" />
+    <None Remove="Styles\新文件夹\**" />
+    <Page Remove="Styles\新文件夹1\**" />
+    <Page Remove="Styles\新文件夹2\**" />
+    <Page Remove="Styles\新文件夹\**" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <None Remove="Assets\Fonts\iconfont.ttf" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Page Remove="Styles\_Thickness.xaml" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Resource Include="Styles\_Thickness.xaml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="7.1.2" />
+    <PackageReference Include="CommunityToolkit.WinUI.Notifications" Version="7.1.2" />
+    <PackageReference Include="MahApps.Metro" Version="2.4.9" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.0" />
+    <PackageReference Include="SqlSugarCore" Version="5.1.4.132" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\ArgusCloseLoopTool.Core\ArgusCloseLoopTool.Core.csproj" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Resource Include="Assets\Fonts\iconfont.ttf">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Update="Styles\CustomButtonStyle.xaml">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Page>
+    <Page Update="Styles\_FontSizes.xaml">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Page>
+  </ItemGroup>
+</Project>
