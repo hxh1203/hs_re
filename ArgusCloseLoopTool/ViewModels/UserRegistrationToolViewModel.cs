@@ -248,6 +248,9 @@ public class UserRegistrationToolViewModel : ObservableObject
             }
         }
     }
+    /// <summary>
+    /// 1358
+    /// </summary>
     private async void UpdateSelectedRow()
     {
         if (UserRegistrationModel.SelectedItem != null)
